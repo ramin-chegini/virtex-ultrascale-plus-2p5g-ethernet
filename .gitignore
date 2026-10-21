@@ -1,0 +1,29 @@
+# Vivado local state and generated build directories
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.gen/
+*.ip_user_files/
+*.hw/
+*.jou
+*.log
+*.str
+*.lock
+*.lck
+*.dcp
+*.wdb
+*.wcfg
+*.pb
+*_sim_netlist.v
+*_sim_netlist.vhdl
+webtalk*
+usage_statistics_webtalk.*
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.swp
+*.tmp
